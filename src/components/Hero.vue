@@ -2,13 +2,12 @@
     <div>
         <div class="jumbotron">
             <Title/>
-            <h1>Vorrei il titolo qui</h1>
         </div>
     </div>
 </template>
 
 <script>
-import Title from './Hero.vue';
+import Title from './Title.vue';
 
 export default {
   name: 'Hero',
